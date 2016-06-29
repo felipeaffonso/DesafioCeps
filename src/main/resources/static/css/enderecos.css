@@ -1,0 +1,12 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.enderecos-app > p > .btn {
+  margin: 5px 0;
+}
+
+.enderecos-app .navbar .container {
+  width: auto;
+}
